@@ -15,7 +15,7 @@ Computer Engineering Student @ ISSAT Sousse | Full-Stack Developer | Blockchain 
 **[HashGov](https://github.com/slimkhardani/HashGov)** — Decentralized identity & certificate platform on Hedera Hashgraph
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/slimkhardani1/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khardenislim0@gmail.com)
 
 ## 🌍 Open to remote internships
