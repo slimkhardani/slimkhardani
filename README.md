@@ -13,6 +13,7 @@ Computer Engineering Student @ ISSAT Sousse | Full-Stack Developer | Blockchain 
 
 ## 🚀 Featured Project
 **[HashGov](https://github.com/slimkhardani/HashGov)** — Decentralized identity & certificate platform on Hedera Hashgraph
+**[n8n-workflow-pack](https://github.com/slimkhardani/n8n-workflow-pack)** — A collection of ready-to-use AI-powered n8n workflows using Gemini AI
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/slimkhardani1/)
