@@ -10,6 +10,7 @@ Computer Engineering Student @ ISSAT Sousse | Full-Stack Developer | Blockchain 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ## 🚀 Featured Project
 **[HashGov](https://github.com/slimkhardani/HashGov)** — Decentralized identity & certificate platform on Hedera Hashgraph
