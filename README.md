@@ -18,7 +18,7 @@ Computer Engineering Student @ ISSAT Sousse | Full-Stack Developer | Blockchain 
 
 ## 🚀 Featured Projects
 
-**[PulseWatch](https://github.com/slimkhardani/pulsewatch-api)** — Multi-tenant SaaS uptime monitoring platform with real-time alerts, Stripe billing, and a background worker architecture. Deployed live on Railway + Vercel.
+**[PulseWatch](https://github.com/slimkhardani/pulsewatch-api)** — Multi-tenant SaaS uptime monitoring platform with real-time alerts, Stripe billing, and a background worker architecture. Deployed live on Render + Vercel.
 🔗 [Live demo](https://pulsewatch-frontend-phi.vercel.app)
 
 **[HashGov](https://github.com/slimkhardani/HashGov)** — Decentralized identity & certificate platform on Hedera Hashgraph
